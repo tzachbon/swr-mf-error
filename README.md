@@ -15,3 +15,8 @@ Everything works fine when we remove `swr` from the shared array.:\
 
 You can see SWR change log here:
 https://github.com/vercel/swr/compare/1.1.2...1.2.0
+
+## Investigation
+
+* Webpack issue: https://github.com/webpack/webpack/issues/16125
+* SWR discussion: https://github.com/vercel/swr/discussions/2107#discussioncomment-3347033
