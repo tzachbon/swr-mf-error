@@ -7,10 +7,10 @@ When use `swr/infinite` with `swr>1.1.2` dependency and sharing it with [Module 
     }),
 ```
 
-We encountered this error:
+We encountered this error:\
 ![with-mf](screenshots/with-mf.png)
 
-Everything works fine when we remove `swr` from the shared array.:
+Everything works fine when we remove `swr` from the shared array.:\
 ![without-mf](screenshots/without-mf.png)
 
 You can see SWR change log here:
