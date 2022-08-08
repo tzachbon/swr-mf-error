@@ -1,0 +1,1 @@
+# Minimal project to find the bug with Module Federation and SWR
